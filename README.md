@@ -8,7 +8,7 @@ I am Mathéo Pires and I made this project during my 4th year at the EPF enginee
 
 The goal of this project is to find the habitable zone on Proxima Centaury. You can check the .docx and powerpoint document for more information.
 
-To run it you need to download raster files in ArcgisPro then you can run the code. It will ask you some values so you can generate the habitable map with your parameters like the weight of each parameter or the minimal temperature.
+To run it you need to download ArcgisProc files (Proxima aprx) and open it in ArcgisPro. Then you can run the code. It will ask you some values so you can generate the habitable map with your parameters like the weight of each parameter or the minimal temperature.
 If you need help to run it you can send me an e-mail at matheo.pires@epfedu.fr i'll respond you when I can.
 
 You can use anything for personal research as long as you mention me.
